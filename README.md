@@ -1,8 +1,25 @@
-# React + Vite
+# react-practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A practice to use ReactJS + vite
+What I learn in this project:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Folder Management
+- React Lifecycle
+- Component
+  - Nested Component
+- Props
+- Router
+  - Dynamic Routing
+- Conditional Rendering
+- Rendering List
+- Event Handler
+- Hooks & State
+  - useState
+  - useEffect
+  - useRef
+  - Custom Hooks
+  - State Management
+    - Redux & Redux Toolkit
+    - useContext
+    - useReducer
+- Get & Post data from API
